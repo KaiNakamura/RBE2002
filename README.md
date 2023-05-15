@@ -1,6 +1,6 @@
 # RBE2002 Team 16
 
-This project was part of one of my robotics courses, RBE 2002 - Unified Robotics II. The goal was to program a set of three robots to work together to escape from a randomized grid-based maze.
+The goal of this project is to program a set of three robots to work together to escape from a randomized grid-based maze.
 
 The first robot searches for a ramp which leads to a platform raised above the rest of the arena. The robot can detect the ramp with an internal IMU sensor and will wait at the top of the platform for the second robot.
 
