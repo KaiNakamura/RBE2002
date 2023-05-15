@@ -1,0 +1,4 @@
+.pio
+.vscode
+.hidden
+wifi_credentials.h
